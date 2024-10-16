@@ -1,0 +1,2 @@
+# SM
+Setting up Git
